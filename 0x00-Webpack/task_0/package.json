@@ -1,14 +1,7 @@
 {
-  "name": "y",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "jquery": "^3.7.1"
-  },
-  "description": ""
+    "jQuery": "^1.7.4",
+    "web-cli": "^1.0.0-prealpha",
+    "webpack": "^5.89.0"
+  }
 }
